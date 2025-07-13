@@ -10,5 +10,5 @@ This section provides a guide on how to perform finetuning using Mistral with QL
 4. Initiate Finetuning: Start the finetuning process using Mistral with the QLora and PEFt configurations.
 5. Evaluate Model: After finetuning, evaluate the performance of your model on a validation set to ensure that it meets your expectations.
 6. Deploy Model: Once satisfied with the model's performance, you can deploy it for inference.
-7. 
+
 For a detailed demonstration of the finetuning process using Mistral, QLora, and PEFt, refer to the notebook Fine_Tuning_with_Mistral_QLora_PEFt.ipynb included in this repository.
